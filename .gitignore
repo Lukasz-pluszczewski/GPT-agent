@@ -1,0 +1,11 @@
+/dist
+/npm-debug.log
+/node_modules
+.DS_Store
+.idea/
+.env
+
+/logs/*
+!/logs/.gitkeep
+/savedLogs/*
+!/savedLogs/.gitkeep
